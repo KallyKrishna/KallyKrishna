@@ -1,11 +1,13 @@
 
 # 🌸 Olá, eu sou Kally Krishna 🌸
 
-> _“Dev por curiosidade e paixão.  
+> _“DEV por pura determinação e paixão...
 > O simples desejo de criar e a magia do “fazer acontecer” me transformaram em uma #DEV
-> #Tech Lover por natureza e #CodeHeart pulsando inovação...
+> Totalmente conectada no espiritual e plugada no digital
+> #Tech Lover por natureza e #CodeHeart que pulsa inovação...
 > Vivo gerando códigos, criando prompts e desenvolvendo universos digitais...
 > — 1byte de cada vez.”_
+> Por toda eternidade
 
 ---
 
