@@ -21,6 +21,7 @@
 - Git & GitHub para versionamento  
 - ChatGPT como assistente de criação e solução
 - CriptoZombies em andamento
+https://share.cryptozombies.io/pt/lesson/1/share/SAKROAS?id=Y3p8NjU4NTky
 
 ---
 
