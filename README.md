@@ -21,7 +21,6 @@
 - Git & GitHub para versionamento  
 - ChatGPT como assistente de criação e solução
 - CriptoZombies em andamento
-https://share.cryptozombies.io/pt/lesson/1/share/SAKROAS?id=Y3p8NjU4NTky
 
 ---
 
@@ -30,7 +29,9 @@ https://share.cryptozombies.io/pt/lesson/1/share/SAKROAS?id=Y3p8NjU4NTky
 | Projeto             | Descrição breve                                    | Link                    |
 | ------------------- | ------------------------------------------------- | ----------------------- |
 | PetShop do Brendow  | Site mobile first, 100% customizado, simples e objetivo. Desenvolvido com muito carinho e ajuda da ChatGPT! | https://kallykrishna.github.io/BrendowPetShop/    |
-| AXAKY               | Espaço pessoal 100% customizado, mobile first, inicialmente privado. | file:///home/kcd/AXAKY/HTML/index.html    |
+| AXAKY               | Espaço pessoal em construção 100% customizado, mobile first, inicialmente privado. | file:///home/kcd/AXAKY/HTML/index.html    |
+| CryptoZombies       | Plataforma de Aprendizado e Desenvolvimento de Jogos em Ethereum | https://share.cryptozombies.io/pt/lesson/1/share/SAKROAS?id=Y3p8NjU4NTky    |
+
 
 ---
 
