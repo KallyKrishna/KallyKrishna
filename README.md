@@ -4,7 +4,7 @@
 > _“DEV por pura determinação e paixão...
 > O simples desejo de criar e a magia do “fazer acontecer” me transformaram em uma #DEV
 > Totalmente conectada no espiritual e plugada no digital...
-> Sou #Tech Lover por natureza e #CodeHeart que pulsa inovação...
+> Sou #TechLover por natureza e #CodeHeart que pulsa inovação...
 > Vivo gerando códigos, criando prompts e desenvolvendo universos digitais...
 > — 1byte de cada vez. _
 > Por toda eternidade"
@@ -20,7 +20,7 @@
 - Visual Studio Code (VSCode)  
 - Git & GitHub para versionamento  
 - ChatGPT como assistente de criação e solução
-- CriptoZombies em andamento
+- CryptoZombies em andamento
 
 ---
 
