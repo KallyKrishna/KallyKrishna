@@ -1,5 +1,5 @@
 
-# 🌸 Olá, eu sou Kally Krishna 🌸
+# 🌸 HelloWord, sou Kally Krishna 🌸
 
 > _“DEV por pura determinação e paixão...
 > O simples desejo de criar e a magia do “fazer acontecer” me transformaram em uma #DEV
@@ -20,6 +20,7 @@
 - Visual Studio Code (VSCode)  
 - Git & GitHub para versionamento  
 - ChatGPT como assistente de criação e solução
+- CriptoZombies em andamento
 
 ---
 
