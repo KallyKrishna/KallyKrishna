@@ -1,5 +1,5 @@
 
-# 🌸 HelloWord, sou Kally Krishna 🌸
+# 🌸 HelloWorld, sou Kally Krishna 🌸
 
 > _“DEV por pura determinação e paixão...
 > O simples desejo de criar e a magia do “fazer acontecer” me transformaram em uma #DEV
