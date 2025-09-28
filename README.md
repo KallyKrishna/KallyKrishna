@@ -53,7 +53,7 @@ Meu objetivo é levar essa sensibilidade para dentro da tecnologia, criando univ
 
 ## 📫 Conecte-se comigo
 - ✉️ sakroas.kally@gmail.com
-- 🌐 https://github.com/KallyKrishna/KallyKrishna
+- 🌐 https://github.com/KallyKrishna
 
 
 ## 🪷 Gestos em Lótus
