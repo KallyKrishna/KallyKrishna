@@ -17,7 +17,7 @@
 >
 > Meu lema é: "1byte de cada vez, por toda eternidade"
 
-🎨 Criadora do **Universo M@uMeKë** | 💻 Desenvolvedora Front-End | 🤟 Estudante de Libras  
+🌱 Criadora do **Universo M@uMeKë** | 💻 Desenvolvedora WEB | 🤟 Estudante de Libras e Sinais | 🧘 Zen Yogue 🕉️   
 
 ## 👩‍💻 Meu Tech
 Sou desenvolvedora front-end e criadora de experiências digitais que unem tecnologia, acessibilidade e espiritualidade.  
